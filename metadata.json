@@ -1,0 +1,8 @@
+{
+  "name": "SEM Keyword Generator by Boleh Belajar",
+  "description": "Generate optimized Google Ads assets and keywords based on brand profile, consumer problems, and landing page analysis. Powered by Boleh Belajar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
